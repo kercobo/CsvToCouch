@@ -26,5 +26,7 @@ How To Use:
 
 * rename your csv file name with the same name as the form name in your OpenSRP Client form_name (ex : in your assest folder is kartu_ibu_registration then your file name should be kartu_ibu_registration.csv)
 
-* run this script from terminal python ppl_fix.py -c <csv_file_name> -j <json_file_name>
+* run this script from terminal python ppl_fix.py -c csv_file_name -j json_file_name to see the json data
+
+* add -s from the command above to post it on OpenSRP server
 
