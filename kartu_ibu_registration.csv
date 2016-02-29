@@ -1,0 +1,7 @@
+userId,id,unique_id,lokasiPeriksa,Village,Province,Sub-district,nik,District,Sub-village,dusun,provinsi,kabupaten,kecamatan,desa,puskesmas,noIbu,namalengkap,namaSuami,tanggalLahir,umur,alamatDomisili,pendidikan,agama,pekerjaan,gakinTidak,posyandu,namaKader,namaDukun,asuransiJiwa,golonganDarah,NomorTelponHp,pptest,highRiskPregnancyYoungMaternalAge,highRiskPregnancyOldMaternalAge,isOutOfArea,isClosed,submissionDate,registrationDate,clientVersionSubmissionDate,serverVersionSubmissionDate
+demo1,7aa7f727-4da8-4c42-b15f-74be09ba2766,1010451,-,None,None,None,-,None,None,Lekor+Timur,nusa tenggara barat,Lombok Tengah,Janapria,Lekor,janapria,None,Inaq Atun,ahmad jarkasih,1990-06-23,25,lekor barat,sekolah_dasar,islam,IRT,ya,lekor barat,masniati,iq.sarat,None,o,None,negative,no,no,false,false,2015-06-23,2015-06-23,2016-01-23 13:56:52,"2016-01-23 13:57:12
+"
+demo1,0184a169-5bfc-4087-bc05-a942848e16eb,1010467,-,None,None,None,-,None,None,Lekor+Barat,nusa tenggara barat,Lombok Tengah,Janapria,Lekor,janapria,None,Inaq Sukyah,rahmatul H.,1990-06-23,25,lekor barat,sekolah_dasar,islam,IRT,ya,lekor barat,misnaini,iq.sarep,None,o,None,negative,no,no,false,false,2015-06-23,2015-06-23,2016-01-23 13:56:52,"2016-01-23 13:57:12
+"
+demo1,25d536da-9fa8-4499-8e43-3f7899748d3a,1010479,-,None,None,None,-,None,None,,nusa tenggara barat,None,None,None,janapria,None,Inaq Sarah,riasi,1993-06-23,22,walun,sekolah_menengah_pertama,islam,IRT,tidak,walun,None,walun,None,a,None,negative,no,no,false,false,2015-06-23,2015-06-23,2016-01-23 13:56:52,"2016-01-23 13:57:12
+"
